@@ -4,6 +4,12 @@
 
 # 👋 ¡Hola, soy Facundo Viñas!
 
+![GitHub followers](https://img.shields.io/github/followers/Facando?label=Follow&style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingeniería en la **UTN Buenos Aires** (2º año) con una gran pasión por el desarrollo web y el análisis de datos. Estoy interesado en obtener experiencia laboral en el ámbito tecnológico, donde pueda aportar mis conocimientos en **JavaScript**, manejo del **DOM** y uso de librerías como **SweetAlert** y **Toastify** para mejorar la experiencia de usuario.  
 
 ---
@@ -18,10 +24,14 @@
 
 ## 🚀 Habilidades
 
-- **Lenguajes:** JavaScript, HTML, CSS
-- **Librerías y Frameworks:** SweetAlert, Toastify
-- **Herramientas:** Git, GitHub, Fetch API, Trello
-- **Idiomas:** Inglés Técnico (Nivel I y II) - Certificado por la UTN FRBA
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Fetch API](https://img.shields.io/badge/-Fetch%20API-4A4A4A?style=flat&logo=javascript&logoColor=white)
+![SweetAlert](https://img.shields.io/badge/-SweetAlert-FF9800?style=flat&logo=javascript&logoColor=white)
+![Toastify](https://img.shields.io/badge/-Toastify-1E88E5?style=flat&logo=javascript&logoColor=white)
 
 ---
 
