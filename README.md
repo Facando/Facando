@@ -48,7 +48,7 @@ Una página web interactiva que incluye:
 
 - Desarrollo de una **Aplicación de Gestión de Proyectos**.
 - Creación de un **portal de recursos humanos** con planificación en Trello.
-- Resúmenes y guías de estudio en **Álgebra, Análisis Matemático y Física**.
+
 
 ---
 
