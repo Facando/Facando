@@ -1,3 +1,7 @@
+![Header](./your-header-image-name.png)
+
+
+
 # 👋 ¡Hola, soy Facundo Viñas!
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingeniería en la **UTN Buenos Aires** (2º año) con una gran pasión por el desarrollo web y el análisis de datos. Estoy interesado en obtener experiencia laboral en el ámbito tecnológico, donde pueda aportar mis conocimientos en **JavaScript**, manejo del **DOM** y uso de librerías como **SweetAlert** y **Toastify** para mejorar la experiencia de usuario.  
